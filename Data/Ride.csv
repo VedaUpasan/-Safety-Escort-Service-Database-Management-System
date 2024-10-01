@@ -1,0 +1,11 @@
+R_id,R_type,R_origin,R_dest,R_ptime,R_etime
+1,Pre-Booking,809 Fulton Park,798 Oakridge Street,1/1/2020 14:40,6:52:00
+2,Immediate,41321 Shoshone Pass,135 Sunbrook Crossing,1/1/2021 12:53,4:29:00
+3,Immediate,5 Moland Way,92311 Melrose Way,20:06:00,22:46:00
+4,Immediate,3 Upham Road,35475 Boyd Drive,3:34:00,22:23:00
+5,Pre-Booking,112 Larry Terrace,9 Iowa Parkway,21:27:00,8:48:00
+6,Immediate,7147 1st Court,407 Express Place,22:40:00,12:32:00
+7,Immediate,45 Hazelcrest Center,77 Straubel Point,6:52:00,22:38:00
+8,Pre-Booking,843 Grasskamp Circle,1087 Carey Place,17:23:00,12:33:00
+9,Pre-Booking,938 Esker Trail,4 Messerschmidt Alley,22:20:00,16:57:00
+10,Immediate,045 North Center,823 Sage Way,15:44:00,23:40:00
